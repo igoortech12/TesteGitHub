@@ -7,6 +7,7 @@ public class GitHubTest {
 		
 		System.out.println("Teste do Github");
 		System.out.println("Teste do Github2");
+		System.out.println("Teste de Github3");
 	}
 
 }
